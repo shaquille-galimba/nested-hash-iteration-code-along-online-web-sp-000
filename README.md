@@ -15,7 +15,7 @@ absolutely need to get comfortable working with hashes. Let's get started!
 ## Code Along Exercise
 
 Fork and clone this lab. You'll be coding your solution in `lib/contacts.rb`.
-You'll be manipulating the following `Hash`: test
+You'll be manipulating the following `Hash`:
 
 ```ruby
 contacts = {
